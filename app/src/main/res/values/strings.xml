@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RealmExample</string>
+    <string name="ver_registros">Ver Registros</string>
+    <string name="text_ver_resultado">Ver resultado</string>
+    <string name="text_nuevo_usuario">Nuevo usuario</string>
+</resources>
